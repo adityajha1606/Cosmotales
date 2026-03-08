@@ -1,4 +1,6 @@
 # Cosmotales
+- Contributor: Aditya Jha 
+- Role: Backend & Integration Support & Python Simulation
 Cosmotales: Planet Explorer
 Cosmotales is a visually engaging and interactive web project that introduces users—especially children—to the wonders of space. From exploring real planets and moons to learning about stars and creating custom fictional planets, the platform combines science, creativity, and fun in one seamless experience.
 
